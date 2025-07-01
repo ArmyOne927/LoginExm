@@ -52,7 +52,7 @@ namespace LoginExm.CapaPresentacion
             }
             else
             {
-                lblError.Text = "No se pudo generar la clave temporal. Verifique el Nick.";
+                lblError.Text = "No se pudo generar la clave temporal. Verifique el Nick. esta orueba es para git";
             }
         }
 
